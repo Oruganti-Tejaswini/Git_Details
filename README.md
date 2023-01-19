@@ -25,7 +25,7 @@ Using Python Editor
 Sample  Input/Output
 
 
-<img width="840" alt="image" src="https://user-images.githubusercontent.com/38122199/213540820-99d91d05-6411-448f-aec6-819df356fc3f.png">
+<img width="873" alt="image" src="https://user-images.githubusercontent.com/38122199/213543319-3cc7e051-f7ee-4c4f-ae36-1348b99ee114.png">
 
 
 
