@@ -23,7 +23,7 @@ Using Python Editor
 
 Sample  Input/Output
 
-<img width="854" alt="image" src="https://user-images.githubusercontent.com/38122199/213540570-a94783d8-71a7-432a-9920-b59238ab3cb7.png">
+<img width="840" alt="image" src="https://user-images.githubusercontent.com/38122199/213540820-99d91d05-6411-448f-aec6-819df356fc3f.png">
 
 
 
