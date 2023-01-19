@@ -12,7 +12,8 @@ Using Juypyter Notebook or Google colab
 Sample Input/Output
 
 
-<img width="524" alt="image" src="https://user-images.githubusercontent.com/38122199/213404471-2cd4fd26-7b9a-4fad-b1f5-d8f2a8895db7.png">
+<img width="626" alt="image" src="https://user-images.githubusercontent.com/38122199/213543069-9b0fce5d-80f1-45b3-9e69-f7c8c51f733d.png">
+
 
 Using Python Editor
 
@@ -22,6 +23,7 @@ Using Python Editor
 4. Will provide you the active branch, local changes, recent commit or commited by rufus details
 
 Sample  Input/Output
+
 
 <img width="840" alt="image" src="https://user-images.githubusercontent.com/38122199/213540820-99d91d05-6411-448f-aec6-819df356fc3f.png">
 
