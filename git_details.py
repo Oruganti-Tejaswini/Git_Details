@@ -41,6 +41,6 @@ def printGitDetails(localDir:str):
   print("blame Rufus: ",blameRufus)
 
 #input the github repository
-git_directory_path = input("Enter git hub directory path....")
+local_git_path = input("Enter local git repository directory:")
 
-printGitDetails(git_directory_path)
+printGitDetails(local_git_path)
